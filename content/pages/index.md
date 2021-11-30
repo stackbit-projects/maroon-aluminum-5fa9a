@@ -1,5 +1,5 @@
 ---
-title: Home WOW 
+title: Home
 layout: PageLayout
 sections:
   - type: HeroSection
